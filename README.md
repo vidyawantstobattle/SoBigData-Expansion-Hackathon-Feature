@@ -6,4 +6,4 @@ This repository expands upon the Software Architecture of the [SoBigData](http:/
 3. Automating the testcases on which the Hackathon solution is judged
 4. Offering support during Hackathons by answering general queries
 
-A detailed report of the work done can be found in the SoBigData Hackathons PDF file here.
+A detailed report of the work done can be found in the SoBigData - Hackathons PDF file [here](./SoBigData - Hackathons.pdf).
